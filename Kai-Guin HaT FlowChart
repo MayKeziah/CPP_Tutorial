@@ -1,0 +1,11 @@
+Kai-Guin HaT FlowChart
+(1) The object to create
+	a. the fields to create
+	b. the methods to access
+	c. the methods to modify
+(2) The Array to hold (1).
+(3) The function to sort (2).
+	a. the (1) accessors to sort with.
+	b. the sorting algorithm.
+(4) The lessons learned -> powerpoint
+(5) The purpose served by the project

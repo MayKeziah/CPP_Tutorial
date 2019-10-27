@@ -1,0 +1,7 @@
+FlowChart of Goal Completion
+1. Decide on kind of objects and const. param. 
+2. Hard code inputs and test outputs
+3. Generalize inputs with param specific cin>>
+4. Generalize further with a full line to parse.
+5. Generalize further with an input file
+6. Finalize with Output file.
